@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<a href="https://rockylinux.org/">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
@@ -69,7 +71,7 @@ For all other questions: hello@rockylinux.org
 
 ## Stay Informed
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -81,7 +83,7 @@ For all other questions: hello@rockylinux.org
 
 Thank you for your interest in contributing to the project.
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) and jumping into the most relevant channel to your interests.
+If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Mattermost](https://chat.rockylinux.org) and jumping into the most relevant channel to your interests.
 
 If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
 
@@ -90,7 +92,7 @@ If you are interested in donating or sponsoring the project, please email hello@
 ## Special Thanks
 
 We would like to thank the following groups for their support thus far on the project:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
